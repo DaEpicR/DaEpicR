@@ -1,11 +1,9 @@
 <h1 align="center">Hi , I'm Rafik</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daepicr" alt="daepicr" /></a> </p>
 
-- I’m currently learning **Java, Javascript, Python**
+- I’m currently learning **Rust, Javascript, Python**
 
 - 📫 How to reach me **daepicr@gmail.com**
-
-- ⚡ Fun fact **Html is a programing language no cap 🧢**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
